@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+FILTER+BOT+V5's+Repo!;A+simple+FILTER+bot+FOR+GROUPS!;and+all+futures!)
 <p align="center">
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
