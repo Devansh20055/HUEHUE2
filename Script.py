@@ -11,7 +11,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v5[ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is NOT open source project. 
+- THIS BOT is open source project. 
 - Source - YOU CAN GET V4 REPO HERE :- @OFF_CHATS
 
 <b>DEVS:</b>
@@ -36,7 +36,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
