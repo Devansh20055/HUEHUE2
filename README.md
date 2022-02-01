@@ -8,7 +8,7 @@
 
 <P ALIGN="CENTER">
 <a href= "https://t.me/team_silent_king">🔰JOIN MY TEAM ON TELEGRAM NOW !!!!! 🔰 </a> </H1> </P>
-[![JOIN US ](https://img.shields.io/badge/TELERAM%20-TEAM%20SILENT%20KING-orange)(https://telegram.dog/TEAM_SILENT_KING)
+[![JOIN US ](https://img.shields.io/badge/TELERAM%20-TEAM%20SILENT%20KING-orange)](https://telegram.dog/TEAM_SILENT_KING)
 [![Stars](https://img.shields.io/github/stars/Devansh20055/HUEHUE2=flat-square&color=yellow)](https://github.com/Devansh20055/HUEHUE2/stargazers)
 [![Forks](https://img.shields.io/github/forks/Devansh20055/HUEHUE2?style=flat-square&color=orange)](https://github.com/Devansh20055/HUEHUE2/fork)
 [![Size](https://img.shields.io/github/repo-size/Devansh20055/HUEHUE2?style=flat-square&color=green)](https://github.com/Devansh20055/HUEHUE2/)   
