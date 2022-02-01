@@ -8,15 +8,6 @@
 
 <P ALIGN="CENTER">
 <a href= "https://t.me/team_silent_king">🔰JOIN MY TEAM ON TELEGRAM NOW !!!!! 🔰 </a> </H1> </P>
-[![Stars](https://img.shields.io/github/stars/Devansh20055/HUEHUE2?style=flat-square&color=yellow)](https://github.com/Devansh20055/HUEHUE2/stargazers)
-[![Forks](https://img.shields.io/github/forks/Devansh20055/HUEHUE2?style=flat-square&color=orange)](https://github.com/Devansh20055/HUEHUE2/fork)
-[![Size](https://img.shields.io/github/repo-size/Devansh20055/HUEHUE2?style=flat-square&color=green)](https://github.com/Devansh20055/HUEHUE2/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Devansh20055/HUEHUE2)   
-[![Contributors](https://img.shields.io/github/contributors/Devansh20055/HUEHUE2?style=flat-square&color=green)](https://github.com/Devansh20055/HUEHUE2/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Devansh20055/HUEHUE2/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/Devansh20055/HUEHUE2)
-
-
 
 ## Features
 
