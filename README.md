@@ -4,9 +4,8 @@
 </p>
 <h1 align="center">
   <b>FILTER BOT V 5</b><BR>
-  <a href= "https://t.me/team_silent_king">JOIN MY TEAM ON TELEGRAM NOW !!!!!</a>
 </h1>
-
+  <H2> <a href= "https://t.me/team_silent_king">🔰JOIN MY TEAM ON TELEGRAM NOW !!!!! 🔰 </a> </H2>
 
 [![Stars](https://img.shields.io/github/stars/Devansh20055/HUEHUE2=flat-square&color=yellow)](https://github.com/Devansh20055/HUEHUE2/stargazers)
 [![Forks](https://img.shields.io/github/forks/Devansh20055/HUEHUE2?style=flat-square&color=orange)](https://github.com/Devansh20055/HUEHUE2/fork)
