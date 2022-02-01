@@ -3,9 +3,11 @@
   <img src="https://te.legra.ph/file/40fb481f9062166292f90.jpg" alt="TEAM_SILENT_KING">
 </p>
 <h1 align="center">
+<HR></HR>
   <b>FILTER BOT V 5</b><BR>
 </h1>
-  <H2> <a href= "https://t.me/team_silent_king">🔰JOIN MY TEAM ON TELEGRAM NOW !!!!! 🔰 </a> </H2>
+<P ALIGN="CENTER"
+  <H2> <a href= "https://t.me/team_silent_king">🔰JOIN MY TEAM ON TELEGRAM NOW !!!!! 🔰 </a> </H2> </P>
 
 [![Stars](https://img.shields.io/github/stars/Devansh20055/HUEHUE2=flat-square&color=yellow)](https://github.com/Devansh20055/HUEHUE2/stargazers)
 [![Forks](https://img.shields.io/github/forks/Devansh20055/HUEHUE2?style=flat-square&color=orange)](https://github.com/Devansh20055/HUEHUE2/fork)
