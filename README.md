@@ -122,4 +122,4 @@ Fork the repo and edit as per your needs.
 Licensed under [GNU AGPL 2.0.](https://github.com/Devansh20055/HUEHUE2/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-<img src="" alt="TEAM_SILENT_KING">
+<img src="https://telegra.ph/read-this-01-31-2" alt="TEAM_SILENT_KING">
