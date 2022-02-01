@@ -3,7 +3,7 @@
   <img src="https://te.legra.ph/file/40fb481f9062166292f90.jpg" alt="TEAM_SILENT_KING">
 </p>
 <h1 align="center">
-<<Hr color="YELLOW"></HR>
+<Hr color="YELLOW"></HR>
   <b>FILTER BOT V 5</b><BR>
 
 <P ALIGN="CENTER"
