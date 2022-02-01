@@ -116,6 +116,7 @@ python3 bot.py
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
+[![telegram badge](https://img.shields.io/badge/TELERAM%20-TEAM%20SILENT%20KING-orange)](https://telegram.dog/TEAM_SILENT_KING)
  - Thanks To All Everyone In This Journey
 
 ### Note
@@ -129,3 +130,5 @@ Fork the repo and edit as per your needs.
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/Devansh20055/HUEHUE2/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+<img src="" alt="TEAM_SILENT_KING">
