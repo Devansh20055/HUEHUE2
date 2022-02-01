@@ -6,7 +6,7 @@
 <Hr color="YELLOW"></HR>
   <b>FILTER BOT V 5</b><BR>
 
-<P ALIGN="CENTER"
+<P ALIGN="CENTER">
 <a href= "https://t.me/team_silent_king">🔰JOIN MY TEAM ON TELEGRAM NOW !!!!! 🔰 </a> </H1> </P>
 
 [![Stars](https://img.shields.io/github/stars/Devansh20055/HUEHUE2=flat-square&color=yellow)](https://github.com/Devansh20055/HUEHUE2/stargazers)
