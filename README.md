@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+FILTER+BOT+V5's+Repo!;A+simple+FILTER+bot+FOR+GROUPS!;and+all+futures!)
 <p align="left">
   <img src="https://te.legra.ph/file/40fb481f9062166292f90.jpg" alt="TEAM_SILENT_KING">
-</p>
+
 <p align="right">
   <img src="https://te.legra.ph/file/40fb481f9062166292f90.jpg" alt="TEAM_SILENT_KING">
 </p>
