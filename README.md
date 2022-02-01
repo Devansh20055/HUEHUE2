@@ -116,7 +116,7 @@ python3 bot.py
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
-- THANKS TO OUR TEAM (https://img.shields.io/badge/TELERAM%20-TEAM%20SILENT%20KING-orange)(https://telegram.dog/TEAM_SILENT_KING)
+
  - Thanks To All Everyone In This Journey
 
 ### Note
